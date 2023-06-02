@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://isilcandemir.github.io/al-folio/sitemap.xml
+Sitemap: https://isilcandemir.github.io/sitemap.xml
