@@ -1,11 +1,11 @@
 ---
-title: project 2
+title: Course 2
 categories:
 - work
-layout: page
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
+layout: page
 ---
 
 Every project has a beautiful feature showcase page.
