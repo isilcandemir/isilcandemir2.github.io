@@ -22,9 +22,3 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my page! I am a researcher interested in asset pricing and the applications of machine learning in finance. I hold a Ph.D in Finance from Boğaziçi University, where I also completed my undergraduate degree in economics. Furthermore, I pursued a Master's degree in Science in Finance from Johns Hopkins University. While I am dedicated to academic pursuits, I have gained substantial professional experience in the finance industry. 
 
 If you would like more details about my qualifications and experiences, please refer to my curriculum vitae ([CV](https://isilcandemir.github.io/cv/)).
-
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture #in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` #property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications #page](/al-folio/publications/) automatically.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-#Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, #Google Scholar, or just disable all of them.
