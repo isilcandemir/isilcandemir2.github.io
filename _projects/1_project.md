@@ -1,6 +1,8 @@
 ---
 title: course 1
-categories: University 1
+categories:
+- University
+- '1'
 layout: page
 description: a project with a background image
 img: assets/img/12.jpg
