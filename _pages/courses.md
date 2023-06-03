@@ -1,11 +1,13 @@
 ---
-layout: page
 title: Courses
-permalink: /projects/
+permalink: "/projects/"
+layout: page
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [University 1, University 2]
+display_categories:
+- University 1
+- University 2
 horizontal: false
 ---
 

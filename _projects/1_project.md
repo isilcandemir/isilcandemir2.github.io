@@ -1,10 +1,11 @@
 ---
-layout: page
 title: course 1
+categories:
+- University 1
+layout: page
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: University 1
 ---
 
 Every project has a beautiful feature showcase page.
